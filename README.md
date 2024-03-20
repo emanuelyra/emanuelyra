@@ -1,5 +1,4 @@
 ###¡Hola! Soy un full stack developer 
- 👋 acualente estoy enfocandome en el back-end
 
 <!--
 **emanuelyra/emanuelyra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
