@@ -1,5 +1,4 @@
-
-¡Hola! Soy un desarrollador full stack dedicado y apasionado por la programación 👨🏻‍💻. Me especializo en el desarrollo de proyectos personales que me permiten mejorar constantemente mis habilidades.
+##¡Hola! Soy un desarrollador full stack dedicado y apasionado por la programación 👨🏻‍💻. Me especializo en el desarrollo de proyectos personales que me permiten mejorar constantemente mis habilidades.
 
 ## Recientemente, he completado con éxito un emocionante desafío: la creación de una tienda en línea llamada uuid-store.
 
@@ -7,7 +6,6 @@
 
 ## Si necesitas ayuda con cualquier tecnología relacionada con mi perfil, no dudes en contactarme. Estaré encantado de contribuir con mi experiencia.
 
-## Curiosidad sobre mí: Siempre estoy en busca de la excelencia y la optimización en mis proyectos. y mejorar la eficiencia en el código.
 <!--
 **emanuelyra/emanuelyra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
